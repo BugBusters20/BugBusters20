@@ -13,8 +13,6 @@ Our primary goals for this project include:
 - Features
 - Installation
 - Usage
-- Contributing
-- License
 - Contact
 
 ## Introduction
