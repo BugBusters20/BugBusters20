@@ -16,14 +16,15 @@ Our primary goals for this project include:
 - Contact
 
 ## Introduction
-Phantom Chomper is a modern take on the classic Pac-Man game. Navigate through mazes, collect points, and avoid ghosts to achieve the highest score. Our goal is to create an engaging and fun game that challenges players' strategic thinking and reflexes.
+Phantom Chomper is a modern take on the classic Pac-Man game. Navigate through mazes and avoid ghosts to achieve the highest score. Our goal is to create an engaging and fun game that challenges players' strategic thinking and reflexes.
 
 ## Features
-- 🎮 Classic Pac-Man gameplay with a modern twist
-- 🏆 Multiple levels with increasing difficulty
-- 👾 Unique ghost AI for challenging gameplay
-- 💥 Power-ups and special items
-- 📈 High score tracking
+- 🧩 A detailed and interactive maze layout with walls, dots.
+-	🎮 Smooth and responsive controls for navigating the maze.
+-	👻 Intelligent ghost behaviours with randomized movements.
+-	〽️ Accurate detection of collisions with walls, dots, power pellets, and ghosts.
+- 👾 A system to track and display the player’s score.
+
 
 ## Contact
 For any questions or suggestions, feel free to reach out to us:
