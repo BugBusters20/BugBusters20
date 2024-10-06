@@ -22,7 +22,7 @@ Phantom Chomper is a modern take on the classic Pac-Man game. Navigate through m
 - 🧩 A detailed and interactive maze layout with walls, dots.
 -	🎮 Smooth and responsive controls for navigating the maze.
 -	👻 Intelligent ghost behaviours with randomized movements.
--	〽️ Accurate detection of collisions with walls, dots, power pellets, and ghosts.
+-	〽️ Detection of collisions with walls, dots, power pellets, and ghosts.
 - 👾 A system to track and display the player’s score.
 
 
